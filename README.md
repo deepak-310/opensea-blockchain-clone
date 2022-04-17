@@ -1,23 +1,7 @@
-# Next.js + Tailwind CSS Example
+<h1>Opensean Clone with React.js , Next.js and blockchain </h1>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/90319891/163708524-8b3de259-d214-4209-b2f4-69767c74ada1.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/90319891/163708541-6eb2d343-7740-48ec-b1fc-71c29cd520dd.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/90319891/163708550-0001b790-34e8-4046-a6ef-afd67fd8e782.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/90319891/163708561-989251c8-3921-4b36-a83c-4718eecd19a9.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/90319891/163708566-a7dbd031-28ca-44d4-b679-89befb5fc4d9.png">
